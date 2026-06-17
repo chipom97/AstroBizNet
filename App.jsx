@@ -9,7 +9,7 @@ import {
 const TEAM = {
   shain:    { name: "Shain Mukungu",        short: "SM",  role: "Project & Technical Lead — LMS, systems, coordination", color: "#6366f1" },
   tumisang: { name: "Tumisang Kedidimetse", short: "TK",  role: "Head of Academics — curriculum & lessons",             color: "#10b981" },
-  baboloki: { name: "Baboloki C. Mazhani",  short: "BM",  role: "Data, Operations, Logistics & Finance (3rd party)",    color: "#0ea5e9" },
+  chipo: { name: "Chipo Mazhani",  short: "BM",  role: "Data, Operations, Logistics & Finance (3rd party)",    color: "#0ea5e9" },
   calvin:   { name: "Calvin Dichaba",       short: "CD",  role: "Marketing, Branding & Design",                         color: "#a855f7" },
   all:      { name: "Whole team",           short: "ALL", role: "Everyone",                                              color: "#64748b" },
 };
